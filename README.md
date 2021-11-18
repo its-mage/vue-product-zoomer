@@ -17,6 +17,11 @@
 npm install vue-product-zoomer
 ```
 
+## Note ⚠️
+
+- make sure that the image dimensions remain the same.
+- Enable this only after the array is loaded
+
 ## Usage
 
 ```sh
